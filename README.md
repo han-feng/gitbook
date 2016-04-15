@@ -9,7 +9,7 @@ This is a simple template shows how to quickly start a   [GitBook](https://www.g
 
 ###Installation 安装
 
-    $ npm install gitbook -g
+    $ npm install gitbook-cli -g
   	
 ###Checkout the repository 检出项目
 
